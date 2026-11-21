@@ -31,11 +31,19 @@ while True:
 
     opcao = int(input('Alternativa: '))
     print()
+    time.sleep(0.5)
 
     if opcao == 1:
+        print('Aguarde um pouco...')
+        time.sleep(1)
+        print()
         continue
 
     elif opcao == 2:
+        print(f'{red}Finalizando programa...{green}')
+        time.sleep(1.5)
+        print()
+        print(f'{red}FINALIZADO!{green}')
         break
 
     else:
