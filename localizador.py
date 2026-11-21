@@ -2,6 +2,7 @@ import pyautogui
 import time
 
 green = '\033[1;32m'
+red = '\033[1;31m'
 print(f'{green}')
 
 while True:
@@ -38,4 +39,4 @@ while True:
         break
 
     else:
-        print('Valor inválido!')
+        print(f'{red}Valor inválido!{green}')
