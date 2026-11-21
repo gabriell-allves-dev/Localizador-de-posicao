@@ -8,7 +8,7 @@ echo   LOCALIZADOR DE POSICAO DO MOUSE
 echo =====================================
 echo.
 
-python main.py
+python Localizador.py
 
 echo.
 echo =====================================
