@@ -1,6 +1,9 @@
 import pyautogui
 import time
 
+green = '\033[1;32m'
+print(f'{green}')
+
 # Mesagem de aviso
 print("Posicione o mouse...")
 
