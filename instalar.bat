@@ -1,6 +1,7 @@
 @echo off
 title Instalador - Localizador de Mouse
 
+echo.
 echo =====================================
 echo   Instalando dependencias do projeto
 echo =====================================
