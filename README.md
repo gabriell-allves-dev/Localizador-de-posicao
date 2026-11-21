@@ -19,10 +19,10 @@ Um Localizador de posição de mouse simples desenvolvida em Python para pratica
 
 1. Clone este repositório.
 2. Abra a pasta do projeto no terminal.
-3. No terminal, execute:
-    
-    **pip install pyautogui.**
 3. Execute o arquivo:
+    
+    **instalar**
+4. Execute o arquivo:
 
    **Executar**
 
